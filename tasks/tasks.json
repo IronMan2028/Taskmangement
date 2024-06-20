@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Complete project report",
+      "description": "This task involves completing the project report and submitting it by the deadline.",
+      "due_date": "2024-06-21T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Prepare for presentation",
+      "description": "Preparing the presentation slides for the upcoming client meeting.",
+      "due_date": "2024-06-22T08:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Meet with client",
+      "description": "Meeting with the client to discuss project requirements and expectations.",
+      "due_date": "2024-06-23T08:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Review project scope",
+      "description": "Reviewing the project scope and updating it based on recent discussions.",
+      "due_date": "2024-06-24T08:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Update project timeline",
+      "description": "Updating the project timeline to reflect recent changes and updates.",
+      "due_date": "2024-06-25T08:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Discuss budget with team",
+      "description": "Discussing the project budget and financial requirements with the project team.",
+      "due_date": "2024-06-26T08:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Research new technologies",
+      "description": "Researching new technologies and tools that can improve project efficiency.",
+      "due_date": "2024-06-27T08:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Write user documentation",
+      "description": "Writing user documentation and manuals for the application users.",
+      "due_date": "2024-06-28T08:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Test application performance",
+      "description": "Testing the application performance and identifying areas for improvement.",
+      "due_date": "2024-06-29T08:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Deploy application to server",
+      "description": "Deploying the application to the production server and ensuring it runs smoothly.",
+      "due_date": "2024-06-30T08:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Refactor code for efficiency",
+      "description": "Refactoring the codebase to improve code quality and efficiency.",
+      "due_date": "2024-07-01T08:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Create mockups for UI",
+      "description": "Creating mockups and wireframes for the user interface redesign.",
+      "due_date": "2024-07-02T08:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Update project documentation",
+      "description": "Updating the project documentation and technical specifications.",
+      "due_date": "2024-07-03T08:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Attend project review meeting",
+      "description": "Attending the project review meeting to discuss progress and issues.",
+      "due_date": "2024-07-04T08:00:00Z"
+    },
+    {
+      "id": 15,
+      "title": "Send progress report to manager",
+      "description": "Sending a progress report to the project manager summarizing recent activities.",
+      "due_date": "2024-07-05T08:00:00Z"
+    },
+    {
+      "id": 16,
+      "title": "Collaborate with team members",
+      "description": "Collaborating with team members on a critical feature implementation.",
+      "due_date": "2024-07-06T08:00:00Z"
+    },
+    {
+      "id": 17,
+      "title": "Schedule client demo",
+      "description": "Scheduling a demo with the client to showcase recent updates and features.",
+      "due_date": "2024-07-07T08:00:00Z"
+    },
+    {
+      "id": 18,
+      "title": "Debug production issues",
+      "description": "Debugging production issues reported by users to maintain application stability.",
+      "due_date": "2024-07-08T08:00:00Z"
+    },
+    {
+      "id": 19,
+      "title": "Implement user feedback",
+      "description": "Implementing user feedback and suggestions to enhance user experience.",
+      "due_date": "2024-07-09T08:00:00Z"
+    },
+    {
+      "id": 20,
+      "title": "Optimize database queries",
+      "description": "Optimizing database queries and improving overall application performance.",
+      "due_date": "2024-07-10T08:00:00Z"
+    }
+  ]
+  
